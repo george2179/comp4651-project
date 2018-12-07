@@ -4,6 +4,6 @@
 ### - Please read the code within the website to understand what is cleaned and processed!!!
 
 ### To be Done:
-#### - tune LightGBM hyperparameter
+### - FINISH THE REPORT!!!
 #### - using other machine learning algorithms
 #### - further data processing
